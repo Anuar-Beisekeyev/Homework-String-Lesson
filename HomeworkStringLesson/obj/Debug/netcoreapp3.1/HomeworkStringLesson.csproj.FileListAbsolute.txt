@@ -1,0 +1,13 @@
+G:\Проекты\HomeworkStringLesson\HomeworkStringLesson\bin\Debug\netcoreapp3.1\HomeworkStringLesson.exe
+G:\Проекты\HomeworkStringLesson\HomeworkStringLesson\bin\Debug\netcoreapp3.1\HomeworkStringLesson.deps.json
+G:\Проекты\HomeworkStringLesson\HomeworkStringLesson\bin\Debug\netcoreapp3.1\HomeworkStringLesson.runtimeconfig.json
+G:\Проекты\HomeworkStringLesson\HomeworkStringLesson\bin\Debug\netcoreapp3.1\HomeworkStringLesson.runtimeconfig.dev.json
+G:\Проекты\HomeworkStringLesson\HomeworkStringLesson\bin\Debug\netcoreapp3.1\HomeworkStringLesson.dll
+G:\Проекты\HomeworkStringLesson\HomeworkStringLesson\bin\Debug\netcoreapp3.1\HomeworkStringLesson.pdb
+G:\Проекты\HomeworkStringLesson\HomeworkStringLesson\obj\Debug\netcoreapp3.1\HomeworkStringLesson.csprojAssemblyReference.cache
+G:\Проекты\HomeworkStringLesson\HomeworkStringLesson\obj\Debug\netcoreapp3.1\HomeworkStringLesson.AssemblyInfoInputs.cache
+G:\Проекты\HomeworkStringLesson\HomeworkStringLesson\obj\Debug\netcoreapp3.1\HomeworkStringLesson.AssemblyInfo.cs
+G:\Проекты\HomeworkStringLesson\HomeworkStringLesson\obj\Debug\netcoreapp3.1\HomeworkStringLesson.csproj.CoreCompileInputs.cache
+G:\Проекты\HomeworkStringLesson\HomeworkStringLesson\obj\Debug\netcoreapp3.1\HomeworkStringLesson.dll
+G:\Проекты\HomeworkStringLesson\HomeworkStringLesson\obj\Debug\netcoreapp3.1\HomeworkStringLesson.pdb
+G:\Проекты\HomeworkStringLesson\HomeworkStringLesson\obj\Debug\netcoreapp3.1\HomeworkStringLesson.genruntimeconfig.cache
